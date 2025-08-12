@@ -1,7 +1,6 @@
 Repositório contendo a resolução da terceira lista de exercícios do Bootcamp +prati, sendo os exercícios de desenvolvimento web básico:
 
-<!-- 
-
+<p>
 1. Crie um arquivo chamado index.html e monte nele a seguinte estrutura usando
 sempre tags semânticas:
 - Um <header> contendo um <h1> (título) e um <p> (parágrafo) introdutório.
@@ -55,5 +54,5 @@ Grid para telas menores por meio de media query.
 - Apareça apenas em telas com largura ≤ 600 px.
 - Oculte a navegação padrão e abra/feche o menu ao ser clicado.
 
--->
+</p>
 
